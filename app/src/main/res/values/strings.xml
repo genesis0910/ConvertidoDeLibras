@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConvertidoDeLibras</string>
+    <string name="editext">Ingrese valor en libras</string>
+    <string name="button">CONVERTIR</string>
+</resources>
